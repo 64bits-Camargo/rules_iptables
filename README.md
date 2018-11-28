@@ -6,6 +6,6 @@
 <b>Adicionar a inicialização do sistema:</b>
 <pre>- Dê permissão de execução no script.
    chmod +x rules_iptables</pre>
-<p>- Mova o script para /etc/init.d/</p>
+<pre>- Mova o script para /etc/init.d/</pre>
 <pre>- Use o comando uptade-rc.d
    update-rc.d iptables_rules defaults</pre>
