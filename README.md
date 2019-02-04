@@ -1,7 +1,7 @@
 <h1>IPTABLES - Regras</h1>
 
 <b>Usar:</b>
-<p>~# rules_iptables {start|stop|restart}</p>
+~# rules_iptables {start|stop|restart}
 
 <b>Adicionar a inicialização do sistema:</b>
 <pre>- Dê permissão de execução no script.
